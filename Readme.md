@@ -1,17 +1,9 @@
+OmniStack 9.0
+
 1 - Install nodejs:
-https://nodejs.org/en/download/package-manager/
 
-2 - Install Chocolatey:
+2 - Yarn or npm;
 
-Run Powershell in adm Mode, after run the command: 
+3 - I'm using VSCode;
 
-Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-
-3 - Using Chocolatey:
-cinst nodejs.install
-
-4 - Install Yarn:
-https://yarnpkg.com/en/docs/install
-
-5 - Install vsCode:
-https://code.visualstudio.com/
+For clone: git clone https://github.com/lhlleonardo/Nodejs-with-React.git
